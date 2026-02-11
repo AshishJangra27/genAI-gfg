@@ -16,3 +16,8 @@ https://colab.research.google.com/drive/1L2v8bwRhh0o-EOAS-tTEnupO-2vA0ehD?usp=sh
 https://excalidraw.com/#json=zHWLPiw8jJabzepGoSAm0,BXy45NKSA_rMHCC3xpl24g
 
 https://github.com/AshishJangra27/ai-projects
+
+
+Projects
+- Local Chatbot with Ollama
+- DIY Agentic AI
