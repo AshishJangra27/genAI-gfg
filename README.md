@@ -13,5 +13,9 @@
 ## Repository & Projects
 
 **Projects**          
+• AI Content Writer
+• AI Resume-based Interview Assistant 
+• Resume Analyser
 • Local Chatbot with Ollama
 • DIY Agentic AI
+
