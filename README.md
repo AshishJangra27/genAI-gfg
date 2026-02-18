@@ -12,15 +12,14 @@
 
 ---
 
-## Repository & Projects
 
-### 🚀 Projects Built During Program
+## Projects Built During Program
 - AI Content Writer  
-- Bulk AI Content Creator (multi-topic article generator)  
+- Bulk AI Content Creator (multi-topic article generator)
+- Build an AI Chatbot
 - AI Resume-based Interview Assistant  
 - Resume Analyzer  
 - Local Chatbot with Ollama  
 - DIY Agentic AI  
-- Custom AI Chatbot (from scratch)
 
 ---
