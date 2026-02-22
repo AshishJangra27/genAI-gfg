@@ -14,11 +14,12 @@
 ---
 
 ## Projects Built During Program
-- AI Content Writer  
-- Bulk AI Content Creator (multi-topic article generator)  
-- Build an AI Chatbot  
+- AI Content Writer  (*)
+- Bulk AI Content Creator (multi-topic article generator)   (*)
+- Build an AI Chatbot   (*)
 - AI Resume-based Interview Assistant  
 - Resume Analyzer  
 - Local Chatbot with Ollama  
 - DIY Agentic AI  
-- AI Question Tagging System  
+- AI Question Tagging System
+- Text2SQL
