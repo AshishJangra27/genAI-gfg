@@ -1,6 +1,3 @@
-Ashish, here is the **updated README** with the sections you requested **removed**. It focuses only on **core Python developer terminal commands**.
-
-````markdown
 # Python Developer Terminal Commands Guide
 
 A practical guide to **important terminal commands for Python developers**.  
@@ -255,4 +252,3 @@ pip install -r requirements.txt
 ```
 
 Mastering these commands helps Python developers **manage environments and dependencies efficiently from the terminal**.
-````
