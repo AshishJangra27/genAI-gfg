@@ -1,4 +1,6 @@
+# Git Operations Sequence
 
+```bash
 # initialise git
 git init
 
