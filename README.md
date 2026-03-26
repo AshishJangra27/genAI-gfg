@@ -19,6 +19,8 @@
 | **11** | Local LLM Chatbot (Ollama) | Built offline chatbot with local LLMs, multi-chat support, and persistent chat storage. | <a href="https://github.com/AshishJangra27/generative-ai-project/tree/main/offline_chatbot"><img src="https://img.shields.io/badge/Project-GitHub-black?logo=github"></a> |
 | **12** | Transformers Masterclass | Covered attention mechanism, transformer architecture, and why transformers outperform sequential models. | <a href="https://excalidraw.com/#json=mTi5n36Y8NEFiGmS2E_BU,aV2YuJnxOnPpd8svch_kiw"><img src="https://img.shields.io/badge/Open-Excalidraw-6965DB?logo=excalidraw&logoColor=white"></a> |
 | **13** | How LLMs are Trained | Explained GPT training, pretraining, fine-tuning, datasets, and evolution of modern LLM architectures. | <a href="https://excalidraw.com/#json=iaP-p0-3r_wS0DZKMcU3R,gDvOQDkJfSBLSTgXX4XJjw"><img src="https://img.shields.io/badge/Open-Excalidraw-6965DB?logo=excalidraw&logoColor=white"></a> |
+| **14** | Transfer Learning with HuggingFace | Covered model loading, preprocessing, transfer learning workflows, and pushing trained models to HuggingFace Hub. | <a href="https://colab.research.google.com/drive/1IFlLmBEXyB8oriRYHwnEMmr7_i3h9AmQ?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"/></a> |
+| **15** | Fine-tuning LLM with LoRA & Quantization | Fine-tuned Gemma 2B using LoRA adapters, quantization, and pushed optimized model to HuggingFace Hub. | <a href="https://colab.research.google.com/drive/1CHhwUYIXX6jUSHWkheK2AWgYp2xmqF1F?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"/></a> |
 
 ---
 
