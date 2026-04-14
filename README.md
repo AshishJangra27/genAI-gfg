@@ -34,23 +34,54 @@
 - AI Content Writer  
 - Bulk AI Content Creator (Multi-topic Article Generator)  
 - AI Chatbot  
-- DIY Agentic AI  
+- DIY Agentic AI Systems  
 - AI Question Tagging System  
-- Text2SQL  
-- Local Chatbot with Ollama  
-- RAG for Article Search  
-- **AI Resume Parser & Gemma 4 Multimodal Interview Assistant**  
+- Text2SQL System (NL → SQL on real datasets)  
+- Semantic Article Search Engine (RAG-based)  
+- Local LLM Chatbot using Ollama  
+- Web Search AI Agent (fetch + summarize + reason)  
+- Vectorless RAG (Sapiens approach)  
+- AI Resume Parser & Multimodal Interview Assistant (Gemma 4)  
+- Multi-Agent Systems using CrewAI  
+- FastAPI Backend Systems (Game API + Chatbot API)  
 
 ---
 
-# Program Outcome
+# Program Output
 
-By the end of this program, learners:
+By the end of this program, you will be able to:
 
-- Understand the complete **AI → Deep Learning → LLM → GenAI pipeline**  
-- Build **RAG systems from scratch**  
-- Create **multi-agent systems using CrewAI**  
-- Deploy **real-world AI applications**  
-- Work with **open-weight and multimodal models** (e.g., Gemma 4)  
-- Convert **natural language into SQL queries**  
-- Build **web-search integrated AI systems**
+1. Understand complete pipeline:  
+   **AI → Machine Learning → Deep Learning → LLMs → Generative AI**
+
+2. Build production-ready systems:
+   - RAG pipelines (both vector and vectorless)
+   - Agentic AI systems (CrewAI, LangChain)
+
+3. Work with real-world tools:
+   - HuggingFace (models + datasets)
+   - Ollama (local LLMs)
+   - FastAPI (backend deployment)
+
+4. Develop advanced capabilities:
+   - Convert natural language → SQL (Text2SQL)
+   - Build multi-agent collaboration systems
+   - Integrate web search with LLM reasoning
+   - Fine-tune LLMs (LoRA + Quantization)
+
+5. Deploy end-to-end AI applications:
+   - Chatbots
+   - Search systems
+   - AI assistants
+   - Backend APIs
+
+---
+
+# Yet to be Covered
+
+- **21**: LangChain + LangSmith (Advanced RAG → Agentic Workflows)  
+- **22**: Docker + Cloud Deployment (Cloud Run)  
+- **23**: MCP + LLM Evaluation Frameworks  
+- **24**: LLM Evaluation + n8n + Final Course Wrap-up  
+
+---
