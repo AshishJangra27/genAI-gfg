@@ -92,10 +92,10 @@ Building, deploying, and securing your AI products.
 ---
 ```markdown
 ### Summary Checklist
-- [ ] DL/NLP Fundamentals
-- [ ] Transformer Architectures
-- [ ] RAG Implementation
-- [ ] Fine-tuning & Quantization
-- [ ] Agentic Frameworks (CrewAI/LangChain)
-- [ ] LLMOps & Deployment
+- [*] DL/NLP Fundamentals
+- [*] Transformer Architectures
+- [*] RAG Implementation
+- [*] Fine-tuning & Quantization
+- [*] Agentic Frameworks (CrewAI/LangChain)
+- [*] LLMOps & Deployment
 ```
