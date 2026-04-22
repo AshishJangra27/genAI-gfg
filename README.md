@@ -80,9 +80,7 @@ By the end of this program, you will be able to:
 
 # Yet to be Covered
 
-- **21**: LangChain + LangSmith (Advanced RAG → Agentic Workflows)  
-- **22**: Docker + Cloud Deployment (Cloud Run)  
-- **23**: MCP + LLM Evaluation Frameworks  
+- **23**: MCP + LangChain + LangSmith
 - **24**: LLM Evaluation + n8n + Final Course Wrap-up  
 
 ---
