@@ -32,6 +32,8 @@
 | **24** | **LLM Evaluation, LangChain & LangSmith** | Understand LLM evaluation techniques, experiment tracking, prompt testing, and monitoring workflows using LangChain and LangSmith for production-ready AI applications. | <a href="https://colab.research.google.com/drive/1v6J7SpMTf5eQJcz49rKy6crgiKg3MKuN?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"/></a><br><a href="https://colab.research.google.com/drive/1amdDifMr57RWALKdzcrqRnuoInnjURY1?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"/></a> |
 ---
 
+
+
 # Projects Built During Program
 
 - AI Content Writer  
@@ -47,6 +49,9 @@
 - AI Resume Parser & Multimodal Interview Assistant (Gemma 4)  
 - Multi-Agent Systems using CrewAI  
 - FastAPI Backend Systems (Game API + Chatbot API)  
+- Cloud-Deployed AI Applications using Google Cloud Run  
+- MCP-based AI Agent Systems  
+- LLM Evaluation & Monitoring Pipelines using LangSmith  
 
 ---
 
@@ -54,35 +59,44 @@
 
 By the end of this program, you will be able to:
 
-1. Understand complete pipeline:  
-   **AI → Machine Learning → Deep Learning → LLMs → Generative AI**
-
-2. Build production-ready systems:
-   - RAG pipelines (both vector and vectorless)
-   - Agentic AI systems (CrewAI, LangChain)
-
-3. Work with real-world tools:
-   - HuggingFace (models + datasets)
-   - Ollama (local LLMs)
-   - FastAPI (backend deployment)
-
-4. Develop advanced capabilities:
-   - Convert natural language → SQL (Text2SQL)
-   - Build multi-agent collaboration systems
-   - Integrate web search with LLM reasoning
-   - Fine-tune LLMs (LoRA + Quantization)
-
-5. Deploy end-to-end AI applications:
-   - Chatbots
-   - Search systems
-   - AI assistants
-   - Backend APIs
+## 1. Understand Complete AI Pipeline
+**AI → Machine Learning → Deep Learning → LLMs → Generative AI**
 
 ---
 
-# Yet to be Covered
+## 2. Build Production-Ready Systems
 
-- **23**: MCP + LangChain + LangSmith
-- **24**: LLM Evaluation + n8n + Final Course Wrap-up  
+- RAG pipelines (both vector and vectorless)  
+- Agentic AI systems using CrewAI, MCP, and LangChain  
+
+---
+
+## 3. Work with Real-World Tools
+
+- HuggingFace (models + datasets)  
+- Ollama (local LLMs)  
+- FastAPI (backend deployment)  
+- Docker & Google Cloud Run (deployment)  
+- LangSmith (LLM monitoring & observability)  
+
+---
+
+## 4. Develop Advanced AI Capabilities
+
+- Convert Natural Language → SQL (Text2SQL)  
+- Build multi-agent collaboration systems  
+- Integrate web search with LLM reasoning  
+- Fine-tune LLMs using LoRA & Quantization  
+- Evaluate and monitor LLM applications  
+
+---
+
+## 5. Deploy End-to-End AI Applications
+
+- AI Chatbots  
+- Semantic Search Systems  
+- AI Assistants  
+- Backend APIs  
+- Cloud-native AI Services  
 
 ---
